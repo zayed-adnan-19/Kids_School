@@ -23,7 +23,6 @@
     box-sizing: border-box;
 }
 
-
 /* Shared-Style-Section */
 .btn-primary {
     font-family: Quicksand;
@@ -38,7 +37,7 @@
     transition: background-color 0.3s ease;
 }
 
-.btn-primary:hover {
+.btn-primary:hover{
     font-size: 1.019rem;
     background-color: rgb(255, 255, 255);
     color: rgb(254, 163, 1);
